@@ -1,0 +1,218 @@
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    .about_img_text h1,.about_img_text p{
+        margin-bottom: 12px !important;
+        
+    }
+    .about_img_text a{
+        margin-top: 0 !important;
+    }
+}
+
+
+@media screen and (max-width: 992px) {
+    .navbar-collapse{
+        position: absolute;
+        top: 100%;
+        width: 100%;
+        left: 0;
+    }
+    .main_nav > li > a{
+        padding: 8px 45px !important;
+    }
+    .sub_menu{
+        justify-content: center !important;
+        align-items: center;
+        position: static;
+        display: none;
+        width: 90%;
+        margin: auto;
+        background-color: white !important;
+        box-shadow: 0px 3px 3px rgba(0, 0, 0, .2);
+    }
+    .main_nav li:hover .sub_menu{
+        display: block
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        ;
+    }
+    .main_nav .navbar-collapse{
+        position: absolute !important;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        background-color: white !important;
+    }
+    .main_nav{
+        background-color: white !important;
+    }
+    .navbar-collapse{
+        padding-right: 0 !important;
+    }
+    .carousel-caption{
+        margin-top: 0 !important;
+        padding: 0 !important;
+    }
+    .carousel-caption h1{
+        font-size: 45px;
+    }
+    .carousel-caption a{
+        padding: 5px 15px !important;
+        font-size: 10px;
+        margin-left: 0 !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+   
+    .carousel-caption h1{
+        font-size: 35px;
+        margin-bottom: 20px !important;
+    }
+    .carousel-caption a{
+        padding: 5px 15px !important;
+        margin-left: 0 !important;
+    }    
+}
+@media screen and (max-width: 576px) {
+   
+    .carousel-caption h1{
+        font-size: 25px;
+        margin-bottom: 20px !important;
+    }
+    .carousel-caption a{
+        padding: 5px 15px !important;
+        margin-left: 0 !important;
+    }    
+}
